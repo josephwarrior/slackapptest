@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="3c48b571-a883-4577-8413-41c55008e9c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.github/workflows/slack.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/slack.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
