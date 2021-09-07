@@ -1,7 +1,7 @@
 const mooncakeSays =require('./index')
 
 test('mooncake knows what to say', () => {
-    expect(mooncakeSays('woooahhhhhhh!')).toBe('(o.o) woooahhhhhhh!');
+    expect(mooncakeSays('woooahhhhhhhh!')).toBe('(o.o) woooahhhhhhhh!');
 });
 
 test('mooncake is not sure what to say', () => {
